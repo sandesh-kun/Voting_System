@@ -1,0 +1,2 @@
+1	Sameer	1999/10/01	Kathmandu	11865346
+2	Saan	2000/01/01	Butwal	27173834
